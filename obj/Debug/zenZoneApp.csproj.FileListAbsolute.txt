@@ -1,0 +1,15 @@
+C:\Users\aicyp\source\repos\zenZoneApp\bin\Debug\zenZoneApp.exe.config
+C:\Users\aicyp\source\repos\zenZoneApp\bin\Debug\zenZoneApp.exe
+C:\Users\aicyp\source\repos\zenZoneApp\bin\Debug\zenZoneApp.pdb
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.csprojAssemblyReference.cache
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\MainWindow.g.cs
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\App.g.cs
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp_MarkupCompile.cache
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp_MarkupCompile.lref
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\MainWindow.baml
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.g.resources
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.Properties.Resources.resources
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.csproj.GenerateResource.cache
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.csproj.CoreCompileInputs.cache
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.exe
+C:\Users\aicyp\source\repos\zenZoneApp\obj\Debug\zenZoneApp.pdb
