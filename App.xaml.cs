@@ -13,5 +13,21 @@ namespace zenZoneApp
     /// </summary>
     public partial class App : Application
     {
+        private Tray tray;
+
+        public App()
+        {
+            tray = new Tray();
+        }
+
+        protected override void OnStartup(StartupEventArgs e)
+        {
+            tray.OnStartup(e);
+        }
+
+        protected override void OnExit(ExitEventArgs e)
+        {
+            tray.OnExit();
+        }
     }
 }
